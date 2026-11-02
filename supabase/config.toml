@@ -1,0 +1,4 @@
+project_id = "jarvis-mobile"
+
+[functions.jarvis-chat]
+verify_jwt = true
